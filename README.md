@@ -1,5 +1,3 @@
-Com certeza! Aqui está a sua lista formatada como conteúdo de uma apostila, com explicações detalhadas para cada comando e conceito.
-
 Apostila de Comandos Essenciais do Linux
 
 Olá! Bem-vindo(a) à sua jornada no mundo do Linux. Esta apostila foi desenvolvida para guiá-lo(a) pelos comandos mais fundamentais e conceitos cruciais que todo usuário e profissional de cibersegurança precisa dominar. Prepare-se para explorar a linha de comando e desvendar o poder do seu sistema Linux!
